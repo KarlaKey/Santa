@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Santa</string>
+    <string name="headline_business">santa\'s workshop</string>
+    <string name="location_icon">location_icon</string>
+    <string name="email_icon">email</string>
+    <string name="address">2801 Ventura Boulevard, \nOxnard, CA 93036</string>
+    <string name="website">www.santasworkshop.com</string>
+    <string name="email">santa@workshop.com</string>
+    <string name="phone_number">+358 20 799999</string>
+    <string name="subline">* DIY for the loved ones *\nHandmade from yourself</string>
+    <string name="headline">Santa\'s Workshop</string>
+    <string name="head_image">head_iimage</string>
+    <string name="opening_hours_weekend">Sat-Sun 09:00am - 12:00pm</string>
+    <string name="opening_hours_week">Mon-Fri 09:00am - 06:00pm</string>
+    <string name="time_subline">Opening hours</string>
+    <string name="time_icon">time_icon</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="web_icon">web_icon</string>
+    <string name="api_key">AF:15:29:4B:F8:08:91:E9:C7:A4:3E:55:30:5C:12:BB:F4:39:F2</string>
+
+
+
+
+
+</resources>
